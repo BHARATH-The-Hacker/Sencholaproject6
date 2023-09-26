@@ -1,6 +1,6 @@
 import React from "react"
 
-const Footer = () => <footer className="bg-dark page-footer font-small mt-5 blue pt-4">
+const Footer = () => <footer className="bg-dark page-footer font-small blue pt-4">
     <div className="container-fluid text-center text-white text-md-left">
         <div className="row">
             <div className="col-md-6 mt-md-0 mt-3">
