@@ -13,7 +13,7 @@ import img7 from "../images/product8.jpg";
 function Product() {
   return (
     <div>
-      <div className="row justify-content-center mx-2">
+      <div className="row justify-content-center mx-2 my-4">
       <div className="col-sm">
       <Card style={{ width: "20rem", marginTop: "6rem"}}>
         <Card.Img variant="top" src={img} />
